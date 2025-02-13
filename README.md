@@ -9,9 +9,7 @@ CLI_Todo is a Simple and Easy Todo list Application written in Go , Designed to 
 - [Project Features](#project-features)
 - [Installation](#installation)
 - [CLI Interface](#cli-interface)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ### Project Features
 
