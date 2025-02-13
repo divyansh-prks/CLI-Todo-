@@ -8,6 +8,7 @@ import (
 	"time"
 
 	"github.com/aquasecurity/table"
+    "github.com/common-nighthawk/go-figure"
 )
 
 
@@ -85,6 +86,8 @@ func (todos *Todos) edit(index int, title string) error {
 
 
     func (todos *Todos) print() {
+        myFigure := figure.NewColorFigure("Welcome, Be Productive", "", "red", true)
+        myFigure.Print()
         table := table.New(os.Stdout)
         table.SetRowLines(false)
         table.SetHeaders("#", "Title", "Completed", "Created At", "Completed At")
