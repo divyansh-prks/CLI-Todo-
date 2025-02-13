@@ -25,7 +25,8 @@ CLI_Todo is a Simple and Easy Todo list Application written in Go , Designed to 
 To install `CLI-Todo`, you need to have [Go](https://go.dev/doc/install) installed.  
 Then, you can use below command to install `CLI_Todo` as follows:
 
-
+### Watch Video
+[![Watch the Video](https://img.youtube.com/vi/3sv-jieY-uc/0.jpg)](https://youtu.be/3sv-jieY-uc)
 
 ```bash
 git clone https://github.com/divyansh-prks/CLI-Todo-.git
@@ -45,17 +46,6 @@ Commands:
   toggle "[integer]"                Used To Mark Complete The Task 
   del "[integer]"                   Used to Delete the Task
   
-
-
-### Usage
-
-<!-- ![Usage](./docs/usage.gif) -->
-
-[![Watch the Video](https://img.youtube.com/vi/3sv-jieY-uc/0.jpg)](https://youtu.be/3sv-jieY-uc)
-
-
-
-
 
 
 ### Contributing
